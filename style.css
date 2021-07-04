@@ -1,0 +1,108 @@
+section.upper{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    background-color: blue;
+    color: white;
+    width: 30%;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0%;
+}
+.right{
+    width: 70%;
+    background-image: url(background1.jpg);
+    background-repeat: no-repeat;
+    
+}
+.uper{
+    color: white;
+    padding: 14px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    border: 2px solid black;
+    margin: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#font{
+    padding-top: 60px;
+    padding-bottom: 0px;
+    margin-bottom: -100px;
+    padding-left: 10%;
+}
+.TEXT{
+    font-size: 50;
+    position: relative;
+}
+
+#ab{
+    padding-left: 60px;
+    padding-top: 150px;
+    color:black;
+    text-shadow: 2px 2px 2px white;
+    font-size: 60px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#bc{
+    padding-left: 65px;
+    color: white;
+    font-size: 40px;
+
+}
+p{
+    width: 45%;
+    padding-left: 75px;
+    text-align: justify;
+    padding-bottom: 100px;
+}
+.foot{
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+#bottomh1{ 
+    text-align: center;
+    font-size: 80px;
+    padding-top: 100px;
+
+}
+.footer{
+    display: flex;
+}
+.bottom-1{
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px black;
+    padding: 0px;
+    border: 5px solid brown;
+    border-radius: 15px;
+    border-image: linear-gradient( red, blue) ;
+    border-image-slice: 1;
+}
+.bottom-2{
+    width: 40%;
+    margin: 5%;
+    box-shadow: 10px 10px 40px black;
+    padding: 0px;
+    border: 5px solid brown;
+    border-radius: 15px;
+    border-image: linear-gradient( blue, red) ;
+    border-image-slice: 1;
+}
+.foot1{
+    font-size:50px;
+    padding-left: 5px;
+    padding-top: 10px;
+    text-transform: uppercase;
+    text-align: center;
+}
+.foot2{
+    font-size: 20px;
+    padding-right: 0px;
+    width: 40%;
+}
